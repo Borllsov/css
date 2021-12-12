@@ -1,0 +1,114 @@
+body{
+
+    background: rgb(110, 214, 145);
+font-weight:600;
+    font-size: 18px;
+    font-family:serif;
+}
+
+.avatar {
+    width:275px;
+border-radius: 25%;
+ box-shadow:10px 10px 14px rgb(72, 175, 179)
+}
+
+.info p{
+
+color:rgb(98, 110, 110);
+text-decoration: underline;
+font-style:"italic";
+}
+
+.Result p{
+
+background:rgb(243, 243, 243) ;
+width:18%;
+box-shadow:10px 10px 14px rgb(72, 175, 179)
+
+}
+
+.omg {
+max-width:750 px;
+ margin:auto; 
+width: 75%;
+
+ 
+}
+.pict1 text{
+    margin-top: 105 px;
+}
+.pict1{
+
+padding: 15px 20 px;
+
+}
+
+.bg-yellow{
+
+background:#fff9dc;
+width: 57%;
+padding: 0 50px;
+border-radius:15%;
+
+}
+
+.bg-red{
+
+background: #ffe5e5;
+padding: 0 100px;
+width: 50%;
+border-radius: 15%;
+}
+.bg-blue{
+
+background: rgb(72, 175, 179);
+box-shadow:10px 10px 14px rgb(161, 236, 74);
+border-radius: 60%;
+}
+
+.pict2{
+
+
+  width: 40%;
+  background-color: #ccc;
+  padding: 20px;
+
+
+
+
+}
+
+.contact h2{
+
+text-align: center;
+
+
+}
+.dop {
+display: block;
+font-size: 14 px;
+color: #868988;
+
+}
+
+.dop input,
+.dop textarea {
+
+width: 100%;
+box-sizing: border-box;
+border-bottom: 1px solid #ccc;
+color: #000;
+font-family: inherit;
+margin-right: 20 px;
+}
+
+
+.row {
+
+
+    display: flex;
+}
+.row > .form-group{
+    width: 50%;
+    margin-right: 20 px;
+}
